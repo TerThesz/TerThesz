@@ -29,6 +29,9 @@
 ### 📁 Recent Projects
 \> All in developement <
 
+<br/>
+<br/>
+
 ---
 
 <img align="left" alt="TerThesz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TerThesz&show_icons=true&hide_border=true" />
