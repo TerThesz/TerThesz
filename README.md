@@ -29,8 +29,8 @@
 ### 📁 Recent Projects
 \> All in developement <
 
-<br/>
-<br/>
+<br />
+<br />
 
 ---
 
