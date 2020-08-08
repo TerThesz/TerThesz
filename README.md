@@ -1,4 +1,4 @@
-### Hello! I'm Matej - aka [TerThesz] 🌌
+### Hello! I'm TerThersz 🌌
 
 ## I develope software for fun
 - 💻 I’m currently working on -> [VS Code Course][website]!
