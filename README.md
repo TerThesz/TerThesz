@@ -27,7 +27,7 @@
 ---
 
 ### 📁 Recent Projects
-Flurries (private)
+Flurries (private) <br/>
 Graphy (In Dev)
 
 <br />
