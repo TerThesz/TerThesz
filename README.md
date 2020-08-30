@@ -43,7 +43,7 @@
 </details>
 
 [<img src="https://https://ok.terthesz.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
-[![Spotify](https://terthesz.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
+[![Spotify](https://ok.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
   
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
