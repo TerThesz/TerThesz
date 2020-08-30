@@ -9,7 +9,7 @@
 
 [<img align="left" alt="TerThesz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TerThesz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<img align="left" alt="Hi, Im TerThesz" width="1000px" src="https://imgur.com/cMndmtT.png" />
+<img align="left" alt="Hi, Im TerThesz" width="500px" src="https://imgur.com/cMndmtT.png" />
 
 <br />
 
