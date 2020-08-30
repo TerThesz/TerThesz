@@ -21,7 +21,9 @@
 
 Name | Version | Last Update
 ---- | ------- | -----------
-No New Projects | N/A | N/A
+[OutputManager (Nuget only)][project1] | 1.0.0 | Unknown
+N/A | N/A | N/A
+N/A | N/A | N/A
 <br/>
 <br/>
 
@@ -48,4 +50,5 @@ No New Projects | N/A | N/A
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
 [hello]: https://github.com/TerThesz
+[project1]: https://www.nuget.org/packages/OutputManager/
 
