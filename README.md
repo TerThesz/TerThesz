@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-##Recent public projects
+## Recent public projects
 
 Name | Version | Last Update
 ---- | ------- | -----------
