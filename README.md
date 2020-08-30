@@ -1,4 +1,6 @@
-[<img align="left" alt="Hi, Im TerThesz" width="400px" src="https://imgur.com/cMndmtT.png" />][hello] ## I like touching my keyboard.
+[<img align="left" alt="Hi, Im TerThesz" width="400px" src="https://imgur.com/cMndmtT.png" />][hello] 
+## I like touching my keyboard.
+<br/>
 <br/>
 <br/>
 - 📖 Currently learning: cyber security & animations in winforms.
