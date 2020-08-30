@@ -34,6 +34,10 @@
 ---
 
 <details>
+  <summary>Update</summary>
+  <!--START_SECTION:activity-->
+</details>
+<details>
   <summary>Stats</summary>
   <img align="left" alt="TerThesz's Github Stats" src="https://readme-stats-lilac.vercel.app/api?username=TerThesz&show_icons=true&hide_border=true" />
 </details>
