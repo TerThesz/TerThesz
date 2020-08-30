@@ -35,8 +35,10 @@ Graphy (In Dev)
 
 ---
 
-<img align="left" alt="TerThesz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TerThesz&show_icons=true&hide_border=true" />
-
+<detail>
+  <img align="left" alt="TerThesz's Github Stats" src="https://github.com/anuraghazra/github-readme-stats/api?username=TerThesz&show_icons=true&hide_border=true" />
+</details>
+  
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
