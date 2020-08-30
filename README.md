@@ -1,5 +1,4 @@
-[<img align="left" alt="Hi, Im TerThesz" width="500px" src="https://imgur.com/cMndmtT.png" />][hello] 
-<br/>
+[<img align="left" alt="Hi, Im TerThesz" width="400px" src="https://imgur.com/cMndmtT.png" />][hello] 
 <br/>
 <br/>
 <br/>
