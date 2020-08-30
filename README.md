@@ -1,9 +1,5 @@
-[<img align="left" alt="Hi, Im TerThesz" width="400px" src="https://imgur.com/cMndmtT.png" />][hello] 
+[<img align="left" alt="Hi, Im TerThesz" width="400px" src="https://imgur.com/cMndmtT.png" />][hello] ## I like touching my keyboard.
 <br/>
-<br/>
-<br/>
-
-## I like touching my keyboard.
 - 📖 Currently learning: cyber security & animations in winforms.
 - 💻 Currently working on: nothing.
 - 🎉 2020 Goals: Trying making more projects for fun.
