@@ -42,8 +42,7 @@
   <img align="left" alt="TerThesz's Github Stats" src="https://readme-stats-lilac.vercel.app/api?username=TerThesz&show_icons=true&hide_border=true" />
 </details>
 
-[<img src="https://https://ok.terthesz.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
-[![Spotify](https://ok.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
   
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
