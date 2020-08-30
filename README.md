@@ -5,16 +5,9 @@
 <br/>
 
 ## I like touching my keyboard.
-- 💻 Currently working on: ###nothing.
-- 📖 I’m currently learning -> cyber security
-- 🎉 2020 Goals: Create more to Open Source projects
-
-### Contact:
-
-[<img align="left" alt="TerThesz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TerThesz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+- 📖 Currently learning: cyber security & animations in winforms.
+- 💻 Currently working on: nothing.
+- 🎉 2020 Goals: Trying making more projects for fun.
 
 ### Languages:
 
@@ -47,3 +40,11 @@
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
 [hello]: https://github.com/TerThesz
+
+---
+### Where to find me?
+
+[<img align="middle" alt="TerThesz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="middle" alt="TerThesz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
