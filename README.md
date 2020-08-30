@@ -24,6 +24,8 @@
 <br />
 <br />
 
+[![Spotify](https://ok.terthesz.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
+
 ---
 
 ### 📁 Recent Projects
@@ -41,8 +43,6 @@
   <summary>Stats</summary>
   <img align="left" alt="TerThesz's Github Stats" src="https://readme-stats-lilac.vercel.app/api?username=TerThesz&show_icons=true&hide_border=true" />
 </details>
-
-[![Spotify](https://ok.terthesz.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
   
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
