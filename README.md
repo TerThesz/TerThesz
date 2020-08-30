@@ -4,8 +4,8 @@
 <br/>
 <br/>
 
-## I develope software for fun
-- 💻 I’m currently working on -> [VS Code Course][website]!
+## I like touching my keyboard.
+- 💻 Currently working on: ###nothing.
 - 📖 I’m currently learning -> cyber security
 - 🎉 2020 Goals: Create more to Open Source projects
 
