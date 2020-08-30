@@ -33,7 +33,7 @@
 
 ---
 
-<img align="left" alt="TerThesz's Github Stats" src="readme-stats-lilac.vercel.app/api?username=TerThesz&show_icons=true&hide_border=true" />
+<img align="left" alt="TerThesz's Github Stats" src="https://readme-stats-lilac.vercel.app/api?username=TerThesz&show_icons=true&hide_border=true" />
   
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
