@@ -38,6 +38,7 @@
 <details>
   <summary>Update</summary>
   <!--START_SECTION:activity-->
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=terthesz)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 <details>
   <summary>Stats</summary>
