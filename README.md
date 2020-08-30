@@ -27,17 +27,13 @@
 ---
 
 ### 📁 Recent Projects
-Flurries (private) <br/>
-Graphy (In Dev)
 
 <br />
 <br />
 
 ---
 
-<detail>
-  <img align="left" alt="TerThesz's Github Stats" src="https://github.com/anuraghazra/github-readme-stats/api?username=TerThesz&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="TerThesz's Github Stats" src="https://github-readme-stats-zeta-smoky.vercel.app/api?username=TerThesz&show_icons=true&hide_border=true" />
   
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
