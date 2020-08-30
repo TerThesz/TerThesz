@@ -1,4 +1,4 @@
-[<img align="left" alt="Hi, Im TerThesz" width="500px" src="https://imgur.com/cMndmtT.png" />][hello]
+[<img align="left" alt="Hi, Im TerThesz" width="500px" src="https://imgur.com/cMndmtT.png" />][hello] <br/>
 
 ## I develope software for fun
 - 💻 I’m currently working on -> [VS Code Course][website]!
