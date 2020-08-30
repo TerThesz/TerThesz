@@ -13,7 +13,7 @@
 ## I like touching my keyboard.
 - 📖 Currently learning: cyber security & animations in winforms.
 - 💻 Currently working on: nothing.
-- 🎉 2020 Goals: Trying making more projects for fun.
+- 🎉 2020 Goals: Trying making more fun projects.
 
 [![Spotify](https://vibinto.terthesz.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
 
