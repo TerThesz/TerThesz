@@ -22,6 +22,8 @@
 Name | Version | Last Update
 ---- | ------- | -----------
 No New Projects | N/A | N/A
+<br/>
+<br/>
 
 ## Vibing to: 
 
