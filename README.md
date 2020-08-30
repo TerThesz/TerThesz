@@ -1,4 +1,4 @@
-### Hello! I'm TerThersz 🌌
+[<img align="left" alt="Hi, Im TerThesz" width="500px" src="https://imgur.com/cMndmtT.png" />][hello]
 
 ## I develope software for fun
 - 💻 I’m currently working on -> [VS Code Course][website]!
@@ -9,7 +9,6 @@
 
 [<img align="left" alt="TerThesz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TerThesz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<img align="left" alt="Hi, Im TerThesz" width="500px" src="https://imgur.com/cMndmtT.png" />
 
 <br />
 
@@ -43,6 +42,4 @@
   
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[hello]: https://github.com/TerThesz
