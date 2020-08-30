@@ -46,8 +46,3 @@
 [instagram]: https://instagram.com/TerThesz
 [hello]: https://github.com/TerThesz
 
----
-<br/>
-<br/>
-<br/>
-<br/>
