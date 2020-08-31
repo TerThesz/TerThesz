@@ -27,8 +27,6 @@ N/A | N/A | N/A
 <br/>
 <br/>
 
-## Vibing to: 
-
 [![Spotify](https://ok.terthesz.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
 <br/>
 <br/>
