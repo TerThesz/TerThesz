@@ -29,7 +29,7 @@ N/A | N/A | N/A
 
 ## Vibing to: 
 
-[![Spotify](https://vibinto.terthesz.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
+[![Spotify](https://ok.terthesz.vercel.app/api/spotify)](https://open.spotify.com/user/q2yqua4age3g16rnwf4wwcujy)
 <br/>
 <br/>
 
