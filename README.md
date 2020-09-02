@@ -21,8 +21,8 @@
 
 Name | Version | Last Update
 ---- | ------- | -----------
+BetterPutty (In Dev) | 0.0.8 | 2.9.2020
 [OutputManager (Nuget only)][project1] | 1.0.0 | Unknown
-N/A | N/A | N/A
 N/A | N/A | N/A
 <br/>
 <br/>
