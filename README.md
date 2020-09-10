@@ -22,7 +22,7 @@
 Name | Version | Last Update
 ---- | ------- | -----------
 BetterPutty (In Dev) | 0.0.8 | 2.9.2020
-[OutputManager (Nuget only)][project1] | 1.0.0 | Unknown
+[OutputManager][project1] | 1.0.0 | Unknown
 N/A | N/A | N/A
 <br/>
 <br/>
@@ -48,5 +48,5 @@ N/A | N/A | N/A
 [twitter]: https://twitter.com/terthesz
 [instagram]: https://instagram.com/TerThesz
 [hello]: https://github.com/TerThesz
-[project1]: https://www.nuget.org/packages/OutputManager/
+[project1]: https://github.com/TerThesz/OutputManager.git
 
