@@ -13,8 +13,8 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TerThesz)
 <br/>
 ## I like touching my keyboard.
-- 📖 Currently learning: cyber security & animations in winforms.
-- 💻 Currently working on: a discord bot.
+- 📖 Currently learning: nothing.
+- 💻 Currently working on: login template.
 - 🎉 2020 Goals: Trying making more fun projects.
 <br/>
 <br/>
