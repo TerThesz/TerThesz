@@ -21,9 +21,9 @@
 
 Name | Version | Last Update
 ---- | ------- | -----------
+simple login | N/A | 18.9.2020
 BetterPutty (In Dev) | 0.0.8 | 2.9.2020
 [OutputManager][project1] | 1.0.0 | Unknown
-N/A | N/A | N/A
 <br/>
 <br/>
 
