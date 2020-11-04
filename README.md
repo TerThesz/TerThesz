@@ -14,18 +14,8 @@
 <br/>
 ## I like touching my keyboard.
 - 📖 Currently learning: nothing.
-- 💻 Currently working on: login template.
+- 💻 Currently working on: discord bot.
 - 🎉 2020 Goals: Trying making more fun projects.
-<br/>
-<br/>
-
-## Recent public projects
-
-Name | Version | Last Update
----- | ------- | -----------
-[login template](https://github.com/TerThesz/login-template) | N/A | 18.9.2020
-BetterPutty (In Dev) | 0.0.8 | 2.9.2020
-[OutputManager][project1] | 1.0.0 | Unknown
 <br/>
 <br/>
 
@@ -33,7 +23,7 @@ BetterPutty (In Dev) | 0.0.8 | 2.9.2020
 <br/>
 <br/>
 
-### Where to find me?
+### Where can you find me?
 
 [<img align="left" alt="TerThesz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TerThesz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
